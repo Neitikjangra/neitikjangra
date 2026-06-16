@@ -188,7 +188,6 @@ Actively building and refining production-grade systems.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Neitikjangra&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Neitikjangra&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neitikjangra&theme=tokyonight&layout=compact&hide_border=true)
 
