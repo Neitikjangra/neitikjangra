@@ -1,4 +1,3 @@
-# <div align="center">🚀 Hi, I'm Neitik Jangid</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi,+I'm+Neitik+Jangid;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Impactful+Products;Future+GSoC+Contributor" alt="Typing SVG" />
@@ -10,7 +9,28 @@
   <img src="./assets/neitik-profile.png" width="420" alt="Neitik Jangid Profile"/>
 </div>
 
-> 💡 Save your uploaded animated/profile image as `assets/neitik-profile.png` in your repository and this README will display it.
+---
+<div align="center">
+  <blockquote style="border-left: 5px solid #00D4FF; padding-left: 20px; font-style: italic; font-size: 18px; color: #333; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p>
+      I'm a <strong>B.Tech Computer Science (AI & ML) student</strong>, 
+      <strong>AI/ML Engineer</strong>, and aspiring 
+      <strong>startup founder</strong> passionate about building intelligent solutions that solve real-world problems.
+    </p>
+    <p>
+      My work focuses on <strong>Machine Learning</strong>, 
+      <strong>Generative AI</strong>, 
+      <strong>healthcare technology</strong>, and 
+      <strong>full-stack application development</strong>. I enjoy transforming innovative ideas into practical products, from AI-powered healthcare systems and compliance agents to intelligent journaling and automation platforms.
+    </p>
+    <p>
+      I'm constantly exploring new technologies in 
+      <strong>AI</strong>, 
+      <strong>scalable software systems</strong>, and 
+      <strong>product development</strong> while participating in hackathons and building impactful projects.
+    </p>
+  </blockquote>
+</div>
 
 ---
 
