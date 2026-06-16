@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hi,+I'm+Neitik+Jangid;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Impactful+Products;Future+GSoC+Contributor" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Hello,+Neitik+Jangid;ML-Powered+Full-Stack+Developer;DevOps+%26+Automation+Engineer;Building+AI-Powered+Products" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/neitik-profile.png" width="420" alt="Neitik Jangid Profile"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Hero Banner" />
 </div>
 
 ---
@@ -34,35 +34,60 @@
 
 ---
 
-🌟 About Me
-
-I'm a B.Tech CSE (AI & ML) Student, Machine Learning Engineer, and Aspiring Tech Entrepreneur passionate about building impactful AI products.
-
-🚀 Founder of innovative AI projects in Healthcare, Compliance, and Wellness
-🤖 Exploring Generative AI, LLMs, Agentic AI, and Intelligent Automation
-🌱 Preparing for GSoC 2026 and contributing to the Open Source ecosystem
-🔬 Building Mayam, an AI-powered CyberSecurity Assistant ecosystem
-📈 Interested in AI Startups, Product Development, and Emerging Technologies
-🎯 Goal: Transform ambitious ideas into products that improve millions of lives
-
----
-
 ## 🎯 Current Focus
 
-| Focus Area | Status |
-|------------|---------|
-| GSoC 2026 Preparation | 🚀 Active |
-| Open Source Contributions | 🌱 Learning & Contributing |
-| AI/ML Engineering | 🤖 Building |
-| Generative AI & LLMs | ⚡ Exploring |
-| System Design | 📚 Improving |
-| Startup Development | 💡 Building |
-| Backend Engineering | 🔧 Growing |
-| Healthcare AI (Viraj) | ❤️ In Progress |
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GSoC-2026-blue?style=for-the-badge"/><br/>
+Preparing for Google Summer of Code
+</td>
 
-##  Tech Stack
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Open%20Source-Exploring-green?style=for-the-badge"/><br/>
+Learning contribution workflows
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/AI%2FML-Building-purple?style=for-the-badge"/><br/>
+Developing intelligent AI solutions
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-red?style=for-the-badge"/><br/>
+Working with LLMs & AI Agents
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/System%20Design-Improving-orange?style=for-the-badge"/><br/>
+Scalable architecture & backend systems
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Startup-Building-yellow?style=for-the-badge"/><br/>
+Creating impactful AI products
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Backend-Growing-brightgreen?style=for-the-badge"/><br/>
+FastAPI, APIs & automation
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Viraj-In%20Progress-red?style=for-the-badge"/><br/>
+AI-powered healthcare ecosystem
+</td>
+</tr>
+</table>
+
+</div>
+
+
+## 🚀 Tech Stack
 
 <div align="center">
   <table>
@@ -94,7 +119,7 @@ I'm a B.Tech CSE (AI & ML) Student, Machine Learning Engineer, and Aspiring Tech
 </div>
 
 ---
-##  Selected Projects
+## 🌟 Selected Projects
 
 <div align="left">
 
@@ -181,7 +206,7 @@ Actively building and refining production-grade systems.
 ✓ Build Solutions That Matter at Scale
 ```
 
-> "I don't just want to build software. I want to build systems that create measurable impact."
+<p align="center"><i>“"I don't just want to build software. I want to build systems that create measurable impact."”</i></p>
 
 
 ---
@@ -217,6 +242,6 @@ Actively building and refining production-grade systems.
 
 <div align="center">
   
-### 🚀 Building Models • Building Products • Building Impact
+### 🚀 Build models. Deliver products. Improve lives.
 
 </div>
