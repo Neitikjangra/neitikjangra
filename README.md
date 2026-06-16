@@ -94,31 +94,81 @@ I'm a B.Tech CSE (AI & ML) Student, Machine Learning Engineer, and Aspiring Tech
 </div>
 
 ---
+##  Selected Projects
 
----
+<div align="left">
 
+<table width="100%">
+<tr>
+<td width="50%">
 
-
-## 💼 Featured Projects
-
-🟦 SynGov
+### 🟦 SynGov  
+**SaaS / Web Platforms**  
 Transparent governance platform for college clubs featuring proposal management, democratic voting, contribution tracking, and collaborative decision-making.
 
-🟣 BusinessPulse AI
+</td>
+<td width="50%">
+
+### 🟣 BusinessPulse AI  
+**Data Analytics & Forecasting**  
 Machine learning-powered business intelligence system that predicts future sales trends for smarter inventory planning, resource allocation, and strategic decision-making.
 
-🟢 Multilingual Fake News Detection
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🟢 Multilingual Fake News Detection 
+**Cybersecurity**  
 NLP-based fake news detection platform using TF-IDF, Logistic Regression, analytics dashboards, and an interactive Streamlit interface.
 
-🟠 Smart Fleet Optimization
+</td>
+<td width="50%">
+
+### 🟠 Smart Fleet Optimization  
+**Data Analytics & Forecasting**  
 AI-driven fleet management solution that forecasts transportation demand, optimizes one-way cab routing, and reduces empty vehicle runs.
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔵 Mayam 
+**Cybersecurity**  
+AI-powered fraud detection platform that protects users across calls, messages, emails, and social media through real-time threat analysis and explainable AI.
+
+</td>
+<td width="50%">
+
+###  More Coming  
+Actively building and refining production-grade systems.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Portfolio-Full%20Stack-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design-Product%20Focused-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=flat-square"/>
+</p>
+
 ---
+
+
 
 ## 🎯 Mission Control
 
-```text
-✓ ## 🎯 Mission Control
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+World+Class+Engineer;Gearing+Up+for+GSoC+2026;Turning+Ideas+Into+Impact" />
+</p>
+
+---
 
 ```text
 ✓ Become a World-Class AI Engineer
@@ -139,18 +189,12 @@ AI-driven fleet management solution that forecasts transportation demand, optimi
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Neitikjangra&theme=tokyonight&hide_border=true&include_all_commits=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Neitikjangra&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neitikjangra&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-## 🏆 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=Neitikjangra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 ## 🌐 Connect With Me
 
