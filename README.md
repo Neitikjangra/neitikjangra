@@ -115,6 +115,46 @@ AI-powered healthcare ecosystem
       <td align="center"><img src="https://img.shields.io/badge/Netlify-00C58E?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></td>
       <td align="center"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
     </tr>
+
+   
+<div align="center">
+  <table>
+    <tr>
+     <td align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></td>
+    </tr>
+
+
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" alt="NLP"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></td>
+</tr>
+
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></td>
+</tr>
+
+
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge" alt="REST API"/></td>
+</tr>
+
+
+  </table>
+</div>
+
+ 
+
+
+   
   </table>
 </div>
 
